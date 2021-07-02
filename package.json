@@ -19,7 +19,7 @@
   },
   "peerDependencies": {
     "@ngrx/store": ">=4",
-    "logrocket": "^0.6"
+    "logrocket": ">=0.6"
   },
   "devDependencies": {
     "typescript": "^2.8.1"
