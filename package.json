@@ -1,6 +1,6 @@
 {
   "name": "logrocket-ngrxz",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "ngrx middleware for [LogRocket](https://logrocket.com/).",
   "main": "dist/lib/index.js",
   "author": "Logrocket <support@logrocket.com> (https://logrocket.com/)",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LogRocket/logrocket-ngrx"
+    "url": "https://github.com/ZerozAndOnez/logrocket-ngrx"
   },
   "files": [
     "dist/"
